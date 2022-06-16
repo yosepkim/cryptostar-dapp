@@ -13,4 +13,4 @@ Token Name: Yosep Star Token
 
 Token Symbol: YST
 
-Token Address on the Rinkeby Network: ???
+Token Address on the Rinkeby Network: 0x190CEAc8d0222b3805ac86a400DD0578683Ae3cC
